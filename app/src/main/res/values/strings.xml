@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SpinnerDemo</string>
+    <string-array name="sp_name">
+        <item>Apple</item>
+        <item>Mango</item>
+        <item>Orange</item>
+        <item>Grapes</item>
+        <item>Papaya</item>
+        <item>Melon</item>
+        <item>WaterMelon</item>
+    </string-array>
+</resources>
